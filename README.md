@@ -2,9 +2,9 @@
 
 ### Estudiante de Licenciatura en Sistemas · Desarrollo de software
 
-Me gusta entender cómo funcionan las cosas y convertir ideas en soluciones útiles. Tengo especial interés en el **backend**, las **bases de datos** y los sistemas que conectan aplicaciones y servicios. También me interesa seguir aprendiendo **Rust**.
+Me gusta entender cómo funcionan las cosas y convertir ideas en soluciones útiles. Me interesan especialmente el **backend**, las **bases de datos**, las **redes**, la **infraestructura** y los sistemas que conectan aplicaciones y servicios. También me interesan **Rust** y la **inteligencia artificial**.
 
-Durante la carrera participé en proyectos en equipo, desde el análisis y el diseño hasta el desarrollo y las pruebas. Disfruto aprender tecnologías nuevas y trabajar en soluciones claras y mantenibles.
+Durante la carrera participé en proyectos en equipo, desde el análisis y el diseño hasta el desarrollo y las pruebas. Disfruto aprender, explorar herramientas y mejorar tanto el código como los procesos de trabajo.
 
 ---
 
