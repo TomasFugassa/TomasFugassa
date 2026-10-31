@@ -41,7 +41,6 @@ Me interesa aplicar buenas prácticas como **pruebas, TDD, Clean Code, patrones 
 - **Smart Parking** — proyecto que reúne aplicación móvil, web, backend y hardware.
 - **APP-Apícola** — aplicación con componentes móviles, backend y base de datos.
 - **RetailUY 360** — trabajo grupal de análisis y visualización de datos con Power BI.
-- [**Rest-Api**](https://github.com/TomasFugassa/Rest-Api) — práctica de una API en JavaScript.
 - [**Promela-Oral**](https://github.com/TomasFugassa/Promela-Oral) — ejercicios sobre concurrencia y exclusión mutua.
 
 Varios proyectos son académicos, grupales o están en desarrollo. Voy incorporando documentación y versiones que pueda compartir a medida que estén preparadas.
