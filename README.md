@@ -43,9 +43,9 @@ También trabajé con **algoritmos y estructuras de datos**, concurrencia y asin
 
 ## 🧩 Proyectos destacados
 
-- **Online Classes** — proyecto académico grupal con componentes .NET y servicios distribuidos.
-- **TaskPanel** — aplicación académica grupal para organizar tareas y equipos, desarrollada con C#, .NET y Blazor.
-- **Object Simulator** — proyecto académico grupal que integra API, interfaz y pruebas.
+- **Online Classes** — proyecto académico grupal con componentes .NET y servicios distribuidos. [Documentación](https://docs.google.com/document/d/1tGIYj-arpyz97qLl-zcjluZrZznFRBmqthggUwzyKuM/edit) (puede requerir acceso).
+- **TaskPanel** — aplicación académica grupal para organizar tareas y equipos, desarrollada con C#, .NET y Blazor. [Documentación](https://docs.google.com/document/d/1PLlnqsUCxCiimvCMtSaeUELGyjD5yJAxotxc0_Qd644/edit) (puede requerir acceso).
+- **Object Simulator** — proyecto académico grupal que integra API, interfaz y pruebas. [Documentación](https://docs.google.com/document/d/1wb0jeoAQ6XBWRTDAl0-sj12f0MWGWHaudMpdyhM_er4/edit) (puede requerir acceso).
 - **APP-Apícola / Miel la Reina** — aplicación con componentes móviles, backend y base de datos.
 - **Smart Parking** — proyecto que reúne aplicación móvil, web, backend y hardware.
 - **BeRe Studio** — propuesta web para un estudio de uñas, con panel y reservas.
@@ -53,12 +53,10 @@ También trabajé con **algoritmos y estructuras de datos**, concurrencia y asin
 
 ### Otros proyectos y prácticas
 
+- [**Herramientas de Software para Big Data**](https://github.com/NicolasAlvezz/herramientassoftware) — proyecto académico grupal vinculado al procesamiento y análisis de datos.
 - **RetailUY 360** — trabajo grupal de análisis y visualización de datos con Power BI.
-- **Programación de Redes** — trabajos académicos con comunicación entre aplicaciones y servicios.
 - **Prototipo de carpooling universitario** — proyecto grupal de diseño de producto y trabajo iterativo con Scrum.
 - [**Promela-Oral**](https://github.com/TomasFugassa/Promela-Oral) — ejercicios de concurrencia y exclusión mutua.
-- [**Rest-Api**](https://github.com/TomasFugassa/Rest-Api) — práctica de API en JavaScript.
-- **Arduino** — prácticas con sensores, motores, pantallas y pequeños juegos.
 
 Los proyectos incluyen trabajos grupales, propuestas y desarrollos en distintas etapas. Incorporaré enlaces y documentación a medida que estén disponibles para compartir.
 
