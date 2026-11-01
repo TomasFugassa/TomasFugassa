@@ -2,17 +2,19 @@
 
 ### Estudiante de Licenciatura en Sistemas · Desarrollo de software
 
-Me gusta entender cómo funcionan las cosas y convertir ideas en soluciones útiles. Me interesan especialmente el **backend**, las **bases de datos**, las **redes**, la **infraestructura** y los sistemas que conectan aplicaciones y servicios. También me interesan **Rust** y la **inteligencia artificial**.
+Me gusta entender cómo funcionan las cosas y crear distintos tipos de software para resolver problemas reales. Disfruto trabajar en las distintas etapas de un proyecto, explorar tecnologías y aprender sobre sistemas, redes e infraestructura.
 
 Durante la carrera participé en proyectos en equipo, desde el análisis y el diseño hasta el desarrollo y las pruebas. Disfruto aprender, explorar herramientas y mejorar tanto el código como los procesos de trabajo.
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 🛠️ Tecnologías y herramientas que he utilizado
 
 **Lenguajes y backend**
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-9A4E2E?style=for-the-badge&logo=rust&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -24,16 +26,20 @@ Durante la carrera participé en proyectos en equipo, desde el análisis y el di
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logoColor=black)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 **Web, móvil y herramientas**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-Me interesa aplicar buenas prácticas como **pruebas, TDD, Clean Code, patrones de diseño y UML**, y seguir mejorando con cada proyecto.
+También trabajé con **algoritmos y estructuras de datos**, concurrencia y asincronía, sockets y WebSockets, gRPC con Protocol Buffers y mensajería con RabbitMQ. Me interesa aplicar buenas prácticas como **pruebas, TDD, Clean Code, patrones de diseño y UML**. También utilizo herramientas de inteligencia artificial como apoyo en el desarrollo.
 
 ## 🧩 Proyectos y experiencias
 
