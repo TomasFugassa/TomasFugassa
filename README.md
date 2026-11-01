@@ -41,15 +41,17 @@ Durante la carrera participé en proyectos en equipo, desde el análisis y el di
 
 También trabajé con **algoritmos y estructuras de datos**, concurrencia y asincronía, sockets y WebSockets, gRPC con Protocol Buffers y mensajería con RabbitMQ. Me interesa aplicar buenas prácticas como **pruebas, TDD, Clean Code, patrones de diseño y UML**. También utilizo herramientas de inteligencia artificial como apoyo en el desarrollo.
 
-## 🧩 Proyectos y experiencias
+## 🧩 Proyectos destacados
 
 - **Online Classes** — proyecto académico grupal con componentes .NET y servicios distribuidos.
+- **TaskPanel** — aplicación académica grupal para organizar tareas y equipos, desarrollada con C#, .NET y Blazor.
+- **Object Simulator** — proyecto académico grupal que integra API, interfaz y pruebas.
+- **APP-Apícola / Miel la Reina** — aplicación con componentes móviles, backend y base de datos.
 - **Smart Parking** — proyecto que reúne aplicación móvil, web, backend y hardware.
-- **APP-Apícola** — aplicación con componentes móviles, backend y base de datos.
-- **RetailUY 360** — trabajo grupal de análisis y visualización de datos con Power BI.
-- [**Promela-Oral**](https://github.com/TomasFugassa/Promela-Oral) — ejercicios sobre concurrencia y exclusión mutua.
+- **BeRe Studio** — propuesta web para un estudio de uñas, con panel y reservas.
+- **Mora Nail Studio** — demostración en desarrollo para un estudio de uñas ficticio, con galería, reservas y panel.
 
-Varios proyectos son académicos, grupales o están en desarrollo. Voy incorporando documentación y versiones que pueda compartir a medida que estén preparadas.
+Los proyectos incluyen trabajos grupales, propuestas y desarrollos en distintas etapas. Incorporaré enlaces y documentación a medida que estén disponibles para compartir.
 
 ---
 
