@@ -38,6 +38,7 @@ Durante la carrera participé en proyectos en equipo, desde el análisis y el di
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 También trabajé con **algoritmos y estructuras de datos**, concurrencia y asincronía, sockets y WebSockets, gRPC con Protocol Buffers y mensajería con RabbitMQ. Me interesa aplicar buenas prácticas como **pruebas, TDD, Clean Code, patrones de diseño y UML**.
 
@@ -55,7 +56,7 @@ También trabajé con **algoritmos y estructuras de datos**, concurrencia y asin
 
 - **Herramientas de Software para Big Data** — trabajo académico grupal de procesamiento y análisis de datos. En la materia trabajé con herramientas para sistemas distribuidos y datos como Spark, Hadoop, Hive, NiFi y Superset.
 - **RetailUY 360** — trabajo grupal de análisis y visualización de datos con Power BI.
-- **Prototipo de carpooling universitario** — proyecto grupal de diseño de producto y trabajo iterativo con Scrum.
+- **Prototipos en Figma** — diseño de un prototipo grupal de carpooling universitario y otro para la gestión de insumos y stock de una panadería.
 - **Promela y SPIN** — práctica de modelado y verificación de sistemas concurrentes: exclusión mutua, progreso y análisis de ciclos, con ejercicios basados en los algoritmos de Peterson y Filter.
 
 Los proyectos incluyen trabajos grupales, propuestas y desarrollos en distintas etapas. Incorporaré enlaces y documentación a medida que estén disponibles para compartir.
