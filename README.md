@@ -63,5 +63,9 @@ Los proyectos incluyen trabajos grupales, propuestas y desarrollos en distintas 
 
 ---
 
+## 📫 Contacto
+
+[LinkedIn](https://www.linkedin.com/in/tomas-fugassa-perez-8b3710296/) · [Email](mailto:tomycubas@gmail.com)
+
 📍 Uruguay · Aprendiendo y construyendo, proyecto a proyecto.
 
