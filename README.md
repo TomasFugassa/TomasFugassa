@@ -43,20 +43,20 @@ También trabajé con **algoritmos y estructuras de datos**, concurrencia y asin
 
 ## 🧩 Proyectos destacados
 
-- **Online Classes** — proyecto académico grupal con componentes .NET y servicios distribuidos. [Documentación](https://docs.google.com/document/d/1tGIYj-arpyz97qLl-zcjluZrZznFRBmqthggUwzyKuM/edit) (puede requerir acceso).
-- **TaskPanel** — aplicación académica grupal para organizar tareas y equipos, desarrollada con C#, .NET y Blazor. [Documentación](https://docs.google.com/document/d/1PLlnqsUCxCiimvCMtSaeUELGyjD5yJAxotxc0_Qd644/edit) (puede requerir acceso).
-- **Object Simulator** — proyecto académico grupal que integra API, interfaz y pruebas. [Documentación](https://docs.google.com/document/d/1wb0jeoAQ6XBWRTDAl0-sj12f0MWGWHaudMpdyhM_er4/edit) (puede requerir acceso).
-- **APP-Apícola / Miel la Reina** — aplicación con componentes móviles, backend y base de datos.
-- **Smart Parking** — proyecto que reúne aplicación móvil, web, backend y hardware.
+- **Online Classes** — proyecto académico grupal de sistemas distribuidos con .NET, comunicación entre servicios, gRPC, WebSockets y mensajería. [Documentación](https://docs.google.com/document/d/1tGIYj-arpyz97qLl-zcjluZrZznFRBmqthggUwzyKuM/edit) (puede requerir acceso).
+- **TaskPanel** — aplicación académica grupal para organizar tareas y equipos, desarrollada con C#, .NET y Blazor. [Documentación: primera entrega](https://docs.google.com/document/d/1Q-NEaBT_6YLbXyIRlBJjMDEtI31ZJSNybVVDk7XJoSk/edit) · [segunda entrega](https://docs.google.com/document/d/1PLlnqsUCxCiimvCMtSaeUELGyjD5yJAxotxc0_Qd644/edit) (pueden requerir acceso).
+- **Object Simulator** — proyecto académico grupal que integra API, interfaz Angular y pruebas con .NET. [Documentación](https://docs.google.com/document/d/1wb0jeoAQ6XBWRTDAl0-sj12f0MWGWHaudMpdyhM_er4/edit) (puede requerir acceso).
+- **APP-Apícola / Miel la Reina** — aplicación móvil con React Native y Expo, backend Node.js y Express, y base de datos PostgreSQL con Prisma.
+- **Smart Parking** — proyecto que reúne aplicación móvil, web, backend y hardware, con React Native, Node.js y MySQL.
 - **BeRe Studio** — propuesta web para un estudio de uñas, con panel y reservas.
 - **Mora Nail Studio** — demostración en desarrollo para un estudio de uñas ficticio, con galería, reservas y panel.
 
 ### Otros proyectos y prácticas
 
-- [**Herramientas de Software para Big Data**](https://github.com/NicolasAlvezz/herramientassoftware) — proyecto académico grupal vinculado al procesamiento y análisis de datos.
+- **Herramientas de Software para Big Data** — trabajo académico grupal de procesamiento y análisis de datos. En la materia trabajé con herramientas para sistemas distribuidos y datos como Spark, Hadoop, Hive, NiFi y Superset.
 - **RetailUY 360** — trabajo grupal de análisis y visualización de datos con Power BI.
 - **Prototipo de carpooling universitario** — proyecto grupal de diseño de producto y trabajo iterativo con Scrum.
-- [**Promela-Oral**](https://github.com/TomasFugassa/Promela-Oral) — ejercicios de concurrencia y exclusión mutua.
+- **Promela y SPIN** — práctica de modelado y verificación de sistemas concurrentes: exclusión mutua, progreso y análisis de ciclos, con ejercicios basados en los algoritmos de Peterson y Filter.
 
 Los proyectos incluyen trabajos grupales, propuestas y desarrollos en distintas etapas. Incorporaré enlaces y documentación a medida que estén disponibles para compartir.
 
