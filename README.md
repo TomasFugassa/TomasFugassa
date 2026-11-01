@@ -39,7 +39,7 @@ Durante la carrera participé en proyectos en equipo, desde el análisis y el di
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-También trabajé con **algoritmos y estructuras de datos**, concurrencia y asincronía, sockets y WebSockets, gRPC con Protocol Buffers y mensajería con RabbitMQ. Me interesa aplicar buenas prácticas como **pruebas, TDD, Clean Code, patrones de diseño y UML**. También utilizo herramientas de inteligencia artificial como apoyo en el desarrollo.
+También trabajé con **algoritmos y estructuras de datos**, concurrencia y asincronía, sockets y WebSockets, gRPC con Protocol Buffers y mensajería con RabbitMQ. Me interesa aplicar buenas prácticas como **pruebas, TDD, Clean Code, patrones de diseño y UML**.
 
 ## 🧩 Proyectos destacados
 
@@ -50,6 +50,15 @@ También trabajé con **algoritmos y estructuras de datos**, concurrencia y asin
 - **Smart Parking** — proyecto que reúne aplicación móvil, web, backend y hardware.
 - **BeRe Studio** — propuesta web para un estudio de uñas, con panel y reservas.
 - **Mora Nail Studio** — demostración en desarrollo para un estudio de uñas ficticio, con galería, reservas y panel.
+
+### Otros proyectos y prácticas
+
+- **RetailUY 360** — trabajo grupal de análisis y visualización de datos con Power BI.
+- **Programación de Redes** — trabajos académicos con comunicación entre aplicaciones y servicios.
+- **Prototipo de carpooling universitario** — proyecto grupal de diseño de producto y trabajo iterativo con Scrum.
+- [**Promela-Oral**](https://github.com/TomasFugassa/Promela-Oral) — ejercicios de concurrencia y exclusión mutua.
+- [**Rest-Api**](https://github.com/TomasFugassa/Rest-Api) — práctica de API en JavaScript.
+- **Arduino** — prácticas con sensores, motores, pantallas y pequeños juegos.
 
 Los proyectos incluyen trabajos grupales, propuestas y desarrollos en distintas etapas. Incorporaré enlaces y documentación a medida que estén disponibles para compartir.
 
