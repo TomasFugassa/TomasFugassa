@@ -48,9 +48,9 @@ También trabajé con **algoritmos y estructuras de datos**, concurrencia y asin
 - **TaskPanel** — aplicación académica grupal para organizar tareas y equipos, desarrollada con C#, .NET y Blazor. [Documentación: primera entrega](https://docs.google.com/document/d/1Q-NEaBT_6YLbXyIRlBJjMDEtI31ZJSNybVVDk7XJoSk/edit) · [segunda entrega](https://docs.google.com/document/d/1PLlnqsUCxCiimvCMtSaeUELGyjD5yJAxotxc0_Qd644/edit) (pueden requerir acceso).
 - **Object Simulator** — proyecto académico grupal que integra API, interfaz Angular y pruebas con .NET. [Documentación](https://docs.google.com/document/d/1wb0jeoAQ6XBWRTDAl0-sj12f0MWGWHaudMpdyhM_er4/edit) (puede requerir acceso).
 - **APP-Apícola / Miel la Reina** — aplicación móvil con React Native y Expo, backend Node.js y Express, y base de datos PostgreSQL con Prisma.
-- **Smart Parking** — proyecto que reúne aplicación móvil, web, backend y hardware, con React Native, Node.js y MySQL.
-- **BeRe Studio** — propuesta web para un estudio de uñas, con panel y reservas.
-- **Mora Nail Studio** — demostración en desarrollo para un estudio de uñas ficticio, con galería, reservas y panel.
+- **Smart Parking** — proyecto que reúne aplicación móvil, web, backend y hardware, con React Native, Node.js y MySQL. [Repositorio](https://github.com/TomasFugassa/smart-parking-demo).
+- **Estudio de uñas** — propuesta web con galería, panel y reservas. La versión compartida utiliza contenido ficticio. [Repositorio](https://github.com/TomasFugassa/estudio-unas-portfolio).
+- **Mora Nail Studio** — demostración en desarrollo para un estudio de uñas ficticio, con galería, reservas y panel. [Repositorio](https://github.com/TomasFugassa/mora-nail-studio-portfolio).
 
 ### Otros proyectos y prácticas
 
