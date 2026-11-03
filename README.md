@@ -46,7 +46,7 @@ También trabajé con **algoritmos y estructuras de datos**, concurrencia y asin
 
 - **Online Classes** — proyecto académico grupal de sistemas distribuidos con .NET, comunicación entre servicios, gRPC, WebSockets y mensajería. [Documentación](https://docs.google.com/document/d/1tGIYj-arpyz97qLl-zcjluZrZznFRBmqthggUwzyKuM/edit) (puede requerir acceso).
 - **TaskPanel** — aplicación académica grupal para organizar tareas y equipos, desarrollada con C#, .NET y Blazor. [Documentación: primera entrega](https://docs.google.com/document/d/1Q-NEaBT_6YLbXyIRlBJjMDEtI31ZJSNybVVDk7XJoSk/edit) · [segunda entrega](https://docs.google.com/document/d/1PLlnqsUCxCiimvCMtSaeUELGyjD5yJAxotxc0_Qd644/edit) (pueden requerir acceso).
-- **Object Simulator** — proyecto académico grupal que integra API, interfaz Angular y pruebas con .NET. [Documentación](https://docs.google.com/document/d/1wb0jeoAQ6XBWRTDAl0-sj12f0MWGWHaudMpdyhM_er4/edit) (puede requerir acceso).
+- **Object Simulator** — proyecto académico grupal que integra una API con ASP.NET Core, interfaz Angular y pruebas con .NET. [Documentación](https://docs.google.com/document/d/1wb0jeoAQ6XBWRTDAl0-sj12f0MWGWHaudMpdyhM_er4/edit) (puede requerir acceso).
 - **APP-Apícola / Miel la Reina** — aplicación móvil con React Native y Expo, backend Node.js y Express, y base de datos PostgreSQL con Prisma.
 - **Smart Parking** — proyecto que reúne aplicación móvil, web, backend y hardware, con React Native, Node.js y MySQL. [Repositorio](https://github.com/TomasFugassa/smart-parking-demo).
 - **Bere Nail Studio** — propuesta web con galería, panel y reservas. [Repositorio](https://github.com/TomasFugassa/estudio-unas-portfolio).
