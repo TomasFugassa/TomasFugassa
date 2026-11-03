@@ -54,6 +54,7 @@ También trabajé con **algoritmos y estructuras de datos**, concurrencia y asin
 
 ### Otros proyectos y prácticas
 
+- **Construcción de un dron** — proyecto académico grupal de construcción de un dron, integración de componentes y aplicación de conceptos de electrónica y vuelo.
 - **Herramientas de Software para Big Data** — trabajo académico grupal de procesamiento y análisis de datos. En la materia trabajé con herramientas para sistemas distribuidos y datos como Spark, Hadoop, Hive, NiFi y Superset.
 - **RetailUY 360** — trabajo grupal de análisis y visualización de datos con Power BI.
 - **Prototipos en Figma** — diseño de un prototipo grupal de carpooling universitario y otro para la gestión de insumos y stock de una panadería.
