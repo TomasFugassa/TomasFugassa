@@ -70,8 +70,6 @@ Los proyectos están en distintas etapas de preparación; compartiré avances y 
 
 Los proyectos incluyen trabajos grupales, propuestas y desarrollos en distintas etapas. Incorporaré enlaces y documentación a medida que estén disponibles para compartir.
 
----
-
 ## 📫 Contacto
 
 [LinkedIn](https://www.linkedin.com/in/tomas-fugassa-perez-8b3710296/) · [Email](mailto:tomycubas@gmail.com)
