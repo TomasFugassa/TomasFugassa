@@ -8,7 +8,7 @@ Durante la carrera participé en proyectos en equipo, desde el análisis y el di
 
 ---
 
-## 🛠️ Algunas tecnologías y herramientas que he utilizado
+## 🛠️ Tecnologías y herramientas importantes que he utilizado
 
 **Lenguajes y backend**
 
