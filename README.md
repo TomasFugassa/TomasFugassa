@@ -42,6 +42,14 @@ Durante la carrera participé en proyectos en equipo, desde el análisis y el di
 
 También trabajé con **algoritmos y estructuras de datos**, concurrencia y asincronía, sockets y WebSockets, gRPC con Protocol Buffers y mensajería con RabbitMQ. Me interesa aplicar buenas prácticas como **pruebas, TDD, Clean Code, patrones de diseño y UML**.
 
+## 🚧 Proyectos en preparación
+
+- **Biblioteca de juegos portable** — diseño de una aplicación de escritorio para organizar y preservar juegos, con Rust entre las tecnologías previstas.
+- **Interfaces para sistemas vehiculares** — exploración de una plataforma de aplicaciones para pantallas de vehículos, con React Native como tecnología prevista.
+- **AURA** — planificación de un asistente de voz con inteligencia artificial, con Rust entre las tecnologías previstas.
+
+Los proyectos están en distintas etapas de preparación; compartiré avances y repositorios cuando estén disponibles.
+
 ## 🧩 Proyectos destacados
 
 - **Online Classes** — proyecto académico grupal de sistemas distribuidos con .NET, comunicación entre servicios, gRPC, WebSockets y mensajería. [Documentación](https://docs.google.com/document/d/1tGIYj-arpyz97qLl-zcjluZrZznFRBmqthggUwzyKuM/edit) (puede requerir acceso).
