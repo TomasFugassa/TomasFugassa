@@ -42,7 +42,7 @@ Durante la carrera participé en proyectos en equipo, desde el análisis y el di
 
 También trabajé con **algoritmos y estructuras de datos**, concurrencia y asincronía, sockets y WebSockets, gRPC con Protocol Buffers y mensajería con RabbitMQ. Me interesa aplicar buenas prácticas como **pruebas, TDD, Clean Code, patrones de diseño y UML**.
 
-## 🚧 Proyectos en preparación
+## Proyectos en preparación
 
 - **Biblioteca de juegos portable** — diseño de una aplicación de escritorio para organizar y preservar juegos, con Rust entre las tecnologías previstas.
 - **Interfaces para sistemas vehiculares** — exploración de una plataforma de aplicaciones para pantallas de vehículos, con React Native como tecnología prevista.
@@ -50,7 +50,7 @@ También trabajé con **algoritmos y estructuras de datos**, concurrencia y asin
 
 Los proyectos están en distintas etapas de preparación; compartiré avances y repositorios cuando estén disponibles.
 
-## 🧩 Proyectos destacados
+## Proyectos destacados
 
 - **Online Classes** — proyecto académico grupal de sistemas distribuidos con .NET, comunicación entre servicios, gRPC, WebSockets y mensajería. [Documentación](https://docs.google.com/document/d/1tGIYj-arpyz97qLl-zcjluZrZznFRBmqthggUwzyKuM/edit) (puede requerir acceso).
 - **TaskPanel** — aplicación académica grupal para organizar tareas y equipos, desarrollada con C#, .NET y Blazor. [Documentación: primera entrega](https://docs.google.com/document/d/1Q-NEaBT_6YLbXyIRlBJjMDEtI31ZJSNybVVDk7XJoSk/edit) · [segunda entrega](https://docs.google.com/document/d/1PLlnqsUCxCiimvCMtSaeUELGyjD5yJAxotxc0_Qd644/edit) (pueden requerir acceso).
