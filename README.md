@@ -44,31 +44,30 @@ También trabajé con **algoritmos y estructuras de datos**, concurrencia y asin
 
 ## Proyectos en preparación
 
-- **Biblioteca de juegos portable** — diseño de una aplicación de escritorio para organizar y preservar juegos, con Rust entre las tecnologías previstas.
-- **Interfaces para sistemas vehiculares** — exploración de una plataforma de aplicaciones para pantallas de vehículos, con React Native como tecnología prevista.
-- **AURA** — planificación de un asistente de voz con inteligencia artificial, con Rust entre las tecnologías previstas.
+- **Biblioteca de juegos portable**: diseño de una aplicación de escritorio para organizar y preservar juegos, con Rust entre las tecnologías previstas.
+- **Interfaces para sistemas vehiculares**: exploración de una plataforma de aplicaciones para pantallas de vehículos, con React Native como tecnología prevista.
+- **AURA**: planificación de un asistente de voz con inteligencia artificial, con Rust entre las tecnologías previstas.
 
 Los proyectos están en distintas etapas de preparación; compartiré avances y repositorios cuando estén disponibles.
 
 ## Proyectos destacados
 
-- **Online Classes** — proyecto académico grupal de sistemas distribuidos con .NET, comunicación entre servicios, gRPC, WebSockets y mensajería. [Documentación](https://docs.google.com/document/d/1tGIYj-arpyz97qLl-zcjluZrZznFRBmqthggUwzyKuM/edit) (puede requerir acceso).
-- **TaskPanel** — aplicación académica grupal para organizar tareas y equipos, desarrollada con C#, .NET y Blazor. [Documentación: primera entrega](https://docs.google.com/document/d/1Q-NEaBT_6YLbXyIRlBJjMDEtI31ZJSNybVVDk7XJoSk/edit) · [segunda entrega](https://docs.google.com/document/d/1PLlnqsUCxCiimvCMtSaeUELGyjD5yJAxotxc0_Qd644/edit) (pueden requerir acceso).
-- **Object Simulator** — proyecto académico grupal que integra una API con ASP.NET Core, interfaz Angular y pruebas con .NET. [Documentación](https://docs.google.com/document/d/1wb0jeoAQ6XBWRTDAl0-sj12f0MWGWHaudMpdyhM_er4/edit) (puede requerir acceso).
-- **APP-Apícola / Miel la Reina** — aplicación móvil con React Native y Expo, backend Node.js y Express, y base de datos PostgreSQL con Prisma.
-- **Smart Parking** — proyecto que reúne aplicación móvil, web, backend y hardware, con React Native, Node.js y MySQL. [Repositorio](https://github.com/TomasFugassa/smart-parking-demo).
-- **Bere Nail Studio** — propuesta web con galería, panel y reservas. [Repositorio](https://github.com/TomasFugassa/estudio-unas-portfolio).
-- **Mora Nail Studio** — demostración en desarrollo para un estudio de uñas, con galería, reservas y panel. [Repositorio](https://github.com/TomasFugassa/mora-nail-studio-portfolio).
+- **Online Classes**: proyecto académico grupal de sistemas distribuidos con .NET, comunicación entre servicios, gRPC, WebSockets y mensajería. [Documentación](https://docs.google.com/document/d/1tGIYj-arpyz97qLl-zcjluZrZznFRBmqthggUwzyKuM/edit) (puede requerir acceso).
+- **TaskPanel**: aplicación académica grupal para organizar tareas y equipos, desarrollada con C#, .NET y Blazor. [Documentación: primera entrega](https://docs.google.com/document/d/1Q-NEaBT_6YLbXyIRlBJjMDEtI31ZJSNybVVDk7XJoSk/edit) · [segunda entrega](https://docs.google.com/document/d/1PLlnqsUCxCiimvCMtSaeUELGyjD5yJAxotxc0_Qd644/edit) (pueden requerir acceso).
+- **Object Simulator**: proyecto académico grupal que integra una API con ASP.NET Core, interfaz Angular y pruebas con .NET. [Documentación](https://docs.google.com/document/d/1wb0jeoAQ6XBWRTDAl0-sj12f0MWGWHaudMpdyhM_er4/edit) (puede requerir acceso).
+- **APP-Apícola / Miel la Reina**: aplicación móvil con React Native y Expo, backend Node.js y Express, y base de datos PostgreSQL con Prisma.
+- **Smart Parking**: proyecto que reúne aplicación móvil, web, backend y hardware, con React Native, Node.js y MySQL. [Repositorio](https://github.com/TomasFugassa/smart-parking-demo).
+- **Bere Nail Studio**: propuesta web con galería, panel y reservas. [Repositorio](https://github.com/TomasFugassa/estudio-unas-portfolio).
+- **Mora Nail Studio**: demostración en desarrollo para un estudio de uñas, con galería, reservas y panel. [Repositorio](https://github.com/TomasFugassa/mora-nail-studio-portfolio).
 
 ### Otros proyectos y prácticas
 
-- **Arduino y ESP32** — proyectos y prácticas de electrónica y programación en C++ con microcontroladores.
-
-- **Construcción de un dron** — proyecto académico grupal de construcción de un dron, integración de componentes y aplicación de conceptos de electrónica y vuelo.
-- **Herramientas de Software para Big Data** — trabajo académico grupal de procesamiento y análisis de datos. En la materia trabajé con herramientas para sistemas distribuidos y datos como Spark, Hadoop, Hive, NiFi y Superset.
-- **RetailUY 360** — trabajo grupal de análisis y visualización de datos con Power BI.
-- **Prototipos en Figma** — diseño de un prototipo grupal de carpooling universitario y otro para la gestión de insumos y stock de una panadería.
-- **Promela y SPIN** — práctica de modelado y verificación de sistemas concurrentes: exclusión mutua, progreso y análisis de ciclos, con ejercicios basados en los algoritmos de Peterson y Filter.
+- **Arduino y ESP32**: proyectos y prácticas de electrónica y programación en C++ con microcontroladores.
+- **Construcción de un dron**: proyecto académico grupal de construcción de un dron, integración de componentes y aplicación de conceptos de electrónica y vuelo.
+- **Herramientas de Software para Big Data**: trabajo académico grupal de procesamiento y análisis de datos. En la materia trabajé con herramientas para sistemas distribuidos y datos como Spark, Hadoop, Hive, NiFi y Superset.
+- **RetailUY 360**: trabajo grupal de análisis y visualización de datos con Power BI.
+- **Prototipos en Figma**: diseño de un prototipo grupal de carpooling universitario y otro para la gestión de insumos y stock de una panadería.
+- **Promela y SPIN**: práctica de modelado y verificación de sistemas concurrentes: exclusión mutua, progreso y análisis de ciclos, con ejercicios basados en los algoritmos de Peterson y Filter.
 
 Los proyectos incluyen trabajos grupales, propuestas y desarrollos en distintas etapas. Incorporaré enlaces y documentación a medida que estén disponibles para compartir.
 
