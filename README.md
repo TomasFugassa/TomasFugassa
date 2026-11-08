@@ -62,7 +62,7 @@ Los proyectos están en distintas etapas de preparación; compartiré avances y 
 
 ### Otros proyectos y prácticas
 
-- **Arduino y ESP32**: proyectos y prácticas de electrónica y programación en C++ con Arduino IDE y Wokwi, incluidos ejercicios de código Morse.
+- **Arduino y ESP32**: proyectos y prácticas de electrónica y programación en C++ con Arduino IDE y Wokwi.
 - **Construcción de un dron**: proyecto académico grupal de construcción de un dron, integración de componentes y aplicación de conceptos de electrónica y vuelo.
 - **Herramientas de Software para Big Data**: trabajo académico grupal de procesamiento y análisis de datos. En la materia trabajé con herramientas para sistemas distribuidos y datos como Spark, Hadoop, Hive, NiFi y Superset.
 - **RetailUY 360**: trabajo grupal de análisis y visualización de datos con Power BI.
